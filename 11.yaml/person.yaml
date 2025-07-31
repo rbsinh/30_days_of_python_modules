@@ -1,0 +1,9 @@
+address:
+  city: New York
+  street: 5th Avenue
+age: 30
+is_employee: true
+name: Alice
+skills:
+- Python
+- Machine Learning

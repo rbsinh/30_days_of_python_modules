@@ -1,0 +1,14 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "city": "New York",
+    "is_employee": true,
+    "hobbies": [
+        "reading",
+        "cycling"
+    ],
+    "address": {
+        "street": "5th Avenue",
+        "zipcode": "10001"
+    }
+}
