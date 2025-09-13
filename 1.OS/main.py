@@ -5,7 +5,7 @@ if(not os.path.exists("data")):
     os.mkdir("data")
 
 #Iteration will be 0,1,2,3,4
-#os.mkdir will new directory
+#os.mkdir will creat new directory
 for i in range(0,5):
     os.mkdir(f"data/day_{i+1}")
 
